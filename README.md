@@ -183,4 +183,3 @@ The convolutional autoencoder was successfully trained to denoise MNIST digit im
 
 
 
-## RESULT
